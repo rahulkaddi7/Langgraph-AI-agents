@@ -4,3 +4,5 @@ lanchain_community
 python-dotenv
 langgraph
 grandalf
+langchain-groq
+langgraph-checkpoint-sqlite
